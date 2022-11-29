@@ -17,5 +17,7 @@
             "name": "Ben Kremer",
             "email": "ben@layotter.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
